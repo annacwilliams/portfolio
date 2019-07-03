@@ -1,2 +1,1 @@
-# portfolio
-Contains files for portfolio website
+ESL teacher with a master's degree in TESL and 10+ years of experience educating students in public and private schools and community programs, as well as designing an e-learning website for IELTS test prep. Seeking a teaching position that utilizes creative teaching methods and e-learning with opportunities for curriculum development.
